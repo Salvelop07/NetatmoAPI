@@ -1,7 +1,7 @@
 <?php
 /*
 
-https://github.com/KiboOst/php-NetatmoCameraAPI
+https://github.com/Salvelop07/NetatmoAPI
 
 */
 

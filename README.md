@@ -272,7 +272,7 @@ See IFTTTactions.php as an example.
 
 The MIT License (MIT)
 
-Copyright (c) 2017 KiboOst
+Copyright (c) 2017 Salvelop07
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
